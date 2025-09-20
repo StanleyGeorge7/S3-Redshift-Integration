@@ -1,11 +1,11 @@
-# Bulk Query Validation
+# s3-Redshift Integration(Data Validation)
 
 This project is designed to facilitate the validation of bulk queries between data stored in Amazon S3 and Amazon Redshift. It processes large datasets, splits them into manageable chunks, compares the data, and stores the results in a structured manner.
 
 ## Project Structure
 
 ```
-s3-redshift-validation
+S3-Redshift-Integration
 ├── src
 │   ├── __init__.py
 │   ├── main.py
@@ -36,7 +36,7 @@ s3-redshift-validation
 
    ```bash
    git clone https://github.com/StanleyGeorge7/S3-Redshift-Integration.git
-   cd s3-redshift-validation
+   cd S3-Redshift-Integration
    ```
 
 2. **Create a Virtual Environment**
